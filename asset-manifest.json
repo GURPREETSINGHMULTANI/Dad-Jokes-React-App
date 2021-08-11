@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Yahtzee-Project/static/css/main.c5ef61d6.chunk.css",
+    "main.js": "/React-Yahtzee-Project/static/js/main.c45faa11.chunk.js",
+    "main.js.map": "/React-Yahtzee-Project/static/js/main.c45faa11.chunk.js.map",
+    "runtime-main.js": "/React-Yahtzee-Project/static/js/runtime-main.0bcd3fed.js",
+    "runtime-main.js.map": "/React-Yahtzee-Project/static/js/runtime-main.0bcd3fed.js.map",
+    "static/js/2.0054dd99.chunk.js": "/React-Yahtzee-Project/static/js/2.0054dd99.chunk.js",
+    "static/js/2.0054dd99.chunk.js.map": "/React-Yahtzee-Project/static/js/2.0054dd99.chunk.js.map",
+    "static/js/3.fefe98c1.chunk.js": "/React-Yahtzee-Project/static/js/3.fefe98c1.chunk.js",
+    "static/js/3.fefe98c1.chunk.js.map": "/React-Yahtzee-Project/static/js/3.fefe98c1.chunk.js.map",
+    "index.html": "/React-Yahtzee-Project/index.html",
+    "static/css/main.c5ef61d6.chunk.css.map": "/React-Yahtzee-Project/static/css/main.c5ef61d6.chunk.css.map",
+    "static/js/2.0054dd99.chunk.js.LICENSE.txt": "/React-Yahtzee-Project/static/js/2.0054dd99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bcd3fed.js",
+    "static/js/2.0054dd99.chunk.js",
+    "static/css/main.c5ef61d6.chunk.css",
+    "static/js/main.c45faa11.chunk.js"
+  ]
+}
